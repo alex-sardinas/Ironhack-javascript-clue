@@ -78,7 +78,7 @@ name: Kitchen
 name: Study
 name: Library
 name: Billiard Room
-name: Lounge
+name: Lounge 
 name: Ballroom
 name: Hall
 name: Spa
